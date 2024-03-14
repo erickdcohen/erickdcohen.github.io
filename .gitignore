@@ -1,0 +1,9 @@
+# vite.*
+node_modules/
+
+# src/assets/*.jpeg
+
+.eslintrc.cjs
+
+src/.DS_Store
+src/assets/.DS_Store
